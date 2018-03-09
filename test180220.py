@@ -1,4 +1,4 @@
-# import #
+import numpy
 def main():
     try:
         n1, n2 = eval(input("Enter two numbers, separated by a comma:"))
